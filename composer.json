@@ -1,0 +1,12 @@
+{
+    "name": "b-khouy/merge_translations",
+    "description": "Allows users to merge node translations.",
+    "type": "drupal-module",
+    "homepage": "https://www.drupal.org/project/merge_translations",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/merge_translations",
+        "source": "https://cgit.drupalcode.org/merge_translations"
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
