@@ -1,5 +1,5 @@
 {
-    "name": "b-khouy/merge_translations",
+    "name": "voidagency/merge_translations",
     "description": "Allows users to merge node translations.",
     "type": "drupal-module",
     "homepage": "https://www.drupal.org/project/merge_translations",
